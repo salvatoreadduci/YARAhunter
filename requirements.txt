@@ -1,0 +1,12 @@
+typer
+pyzipper
+requests
+rich
+lief
+lxml
+pyyaml
+yara-python
+paramiko
+python-dotenv
+python-crontab
+psutil
